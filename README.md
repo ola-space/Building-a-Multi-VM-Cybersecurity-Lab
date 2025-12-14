@@ -5,6 +5,7 @@ Setups include.......
 2. Windows 8 PC
 3. Windows server
 4. NatNetwork configuration for VMs
+5. Kali Linux Installation
     
 
 
