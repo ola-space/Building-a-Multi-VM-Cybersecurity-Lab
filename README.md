@@ -153,6 +153,7 @@ This lab serves as a controlled environment for continuous cybersecurity learnin
 
 ---
 
-### **Author**   
-Olanipekun Babatunde
+## Author
+**Olanipekun Babatunde**  
+Cybersecurity Analyst
 
